@@ -1,0 +1,10 @@
+@import "tailwindcss";
+html {
+  scroll-behavior: smooth; /* Smooth scrolling for anchor links */
+}
+
+body, #root {
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
