@@ -1,4 +1,4 @@
-## my-project
+## UI-UX Landing Page
 
 A simple, responsive marketing / landing site built with React, TypeScript, Vite and Tailwind CSS.
 
@@ -43,11 +43,4 @@ npm run dev
 - The contact section is a static UI by default. Wire it to a backend or form service if you need submissions.
 - If you add new TypeScript config changes that affect type-checking, the `build` script runs `tsc -b` before `vite build`.
 
-### Contributing
-
-Small changes are welcome: open a PR, keep changes focused, and run `npm run lint` before committing.
-
-### License
-
-See the repository license or add one if needed.
 
