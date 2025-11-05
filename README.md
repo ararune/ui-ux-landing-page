@@ -1,4 +1,4 @@
-## UI-UX Landing Page
+## UI-UX Landing Page (landing.png)
 
 A simple, responsive marketing / landing site built with React, TypeScript, Vite and Tailwind CSS.
 
